@@ -1,0 +1,30 @@
+.background{
+    background-color: rgb(231, 171, 171);
+}
+.padding50{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 80px;
+}
+.fasize{
+    font-size: 3em;
+    color: aliceblue;
+}
+.padd50buttom{
+    padding-bottom: 30px;
+}
+.padbuttom{
+    padding-bottom: 300px;
+}
+.pad30{
+    
+    padding-right: 50px;
+    padding-top: 30px;
+}
+.widthight{
+    width: 100%;
+    height: 100%;
+}
+.form-label{
+    font-weight: bold
+}
